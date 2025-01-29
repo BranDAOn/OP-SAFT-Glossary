@@ -38,7 +38,3 @@ Many thanks to these contributors:
 * Greg Xethalis (https://twitter.com/xethalis)
 
 * Jacob Wittman (https://twitter.com/jakewittman)
-
-## About the Author
-
-Brandon Ferrick is an attorney licensed to practice law in the state of New York. Brandon currently serves as the general counsel for Injective Labs (https://injectivelabs.org). More about him may be found at https://t.co/xF0JQrMKsp?amp=1.
